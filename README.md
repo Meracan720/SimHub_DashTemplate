@@ -1,4 +1,4 @@
-# SimHub_DashTemplate
+# SimHub OverlayTemplates
 
 Lists of Layouts available: 
 * Simple Input Keyboard
