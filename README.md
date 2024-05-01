@@ -1,5 +1,11 @@
 # SimHub_DashTemplate
 
+Lists of Layouts available: 
+* Simple Input Keyboard
+
+
+
+
 CN：
 erm 我还不知道这个应该怎么写比较好
 
