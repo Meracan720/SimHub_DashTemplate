@@ -1,0 +1,22 @@
+{
+  "SimHubVersion": "9.1.18",
+  "Category": null,
+  "Title": "Turbo Boost Indicator",
+  "Description": null,
+  "Author": "Meracan_720",
+  "ScreenCount": 1.0,
+  "InGameScreensIndexs": [
+    0
+  ],
+  "IdleScreensIndexs": [
+    0
+  ],
+  "MainPreviewIndex": 0,
+  "IsOverlay": true,
+  "Width": 200.0,
+  "Height": 200.0,
+  "OverlaySizeWarning": false,
+  "MetadataVersion": 2.0,
+  "EnableOnDashboardMessaging": true,
+  "PitScreensIndexs": []
+}
