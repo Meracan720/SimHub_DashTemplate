@@ -2,7 +2,7 @@
 
 Lists of Layouts available: 
 * Simple Input Keyboard
-  ![Image of Simple Input Keyboard](image.jpg)
+  ![Image of Simple Input Keyboard]("Simple_Input_Keyboard_-_FH5.djson.png")
 
 * WMMT 6 - GReedy Tacho s'
 
