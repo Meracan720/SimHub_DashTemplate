@@ -2,6 +2,8 @@
 
 Lists of Layouts available: 
 * Simple Input Keyboard
+  ![Image of Simple Input Keyboard](image.jpg)
+
 * WMMT 6 - GReedy Tacho s'
 
 
