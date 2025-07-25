@@ -16,11 +16,11 @@ Lists of Layouts available:
 
 Overlay Tags:
 
-### ABS Tag
+* ABS Tag
 
     ![Image of ABS Tag](/ABS%20Tag/ABS%20Tag.djson.00.png)
 
-### TC Tag
+* TC Tag
 
     ![Image of TC Tag](/TCS%20Tag/TCS%20Tag.djson.00.png)
 
