@@ -12,6 +12,24 @@ Lists of Layouts available:
     ![Image of Simple Input Keyboard](/湾岸6R%20-%20Digit%20Speedo/湾岸6R%20-%20Digit%20Speedo.djson.00.png)
     ![Image of Simple Input Keyboard](/湾岸6R-增压表/湾岸6R-增压表.djson.00.png)
 
+## ACC Specified / 《神力科莎：争锋》te zhi
+
+Overlay Tags:
+
+### ABS Tag
+
+    ![Image of ABS Tag](/ABS%20Tag/ABS%20Tag.djson.00.png)
+
+### TC Tag
+
+    ![Image of TC Tag](/TCS%20Tag/TCS%20Tag.djson.00.png)
+
+### Engine Tag
+
+### Time Delta
+
+
+
 ## CN Intro / 介绍
 
 erm 我还不知道这个应该怎么写比较好
