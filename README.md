@@ -18,8 +18,9 @@ Overlay Tags:
 
 * ABS Tag
 
-    ![Image of ABS Tag](/ABS%20Tag/ABS%20Tag.djson.00.png)
+A simple ABS tag showing the ABS level and brake bias, with every change to bias it would be highlighted.
 
+![Image of ABS Tag](/ABS%20Tag/ABS%20Tag.djson.00.png)
 * TC Tag
 
     ![Image of TC Tag](/TCS%20Tag/TCS%20Tag.djson.00.png)
