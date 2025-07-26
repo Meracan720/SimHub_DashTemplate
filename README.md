@@ -1,17 +1,47 @@
 # SimHub OverlayTemplates
+
 (Warning! Some text can only be seen for your browser's dark mode!)
 
-Lists of Layouts available:  
+## CN Intro / 介绍
 
-* Simple Input Keyboard
+erm 我还不知道这个应该怎么写比较好...
 
-    ![Image of Simple Input Keyboard](/Simple%20Input%20Keyboard%20-%20FH5/Simple%20Input%20Keyboard%20-%20FH5.djson.00.png)
+如何使用？  
+将下载的文件夹放入SimHub主目录下的 `\DashTemplates` 中，
+重新启动SimHub就可以看到新加装的仪表小组件了！
 
-* WMMT 6 - GReedy Tachonometer  
-** Include the Turbo gauge and the Tachonometer
+## EN Introduction
 
-    ![Image of Simple Input Keyboard](/湾岸6R%20-%20Digit%20Speedo/湾岸6R%20-%20Digit%20Speedo.djson.00.png)
-    ![Image of Simple Input Keyboard](/WMMT%20Boost%20Gauge/WMMT%20Boost%20Gauge.djson.00.png)
+erm really idk how to write a proper welcoming introduction..
+
+### Where to put?
+
+Download the ***folders*** you wish and place it inside `\DashTemplates` under the main program folder.  
+Go to anywhere and back to the tab of small layouts and you will see the newly-added dash!
+
+if still not appearing on the list of layouts please restart the SimHub.
+
+## Lists of Layouts available
+
+### Simple Input Keyboard
+
+Last Update:  
+
+![Image of Simple Input Keyboard](/Simple%20Input%20Keyboard%20-%20FH5/Simple%20Input%20Keyboard%20-%20FH5.djson.00.png)
+
+### WMMT 6 - GReedy Tachonometer
+
+Include the Turbo gauge and the Tachonometer
+
+![Image of Simple Input Keyboard](/湾岸6R%20-%20Digit%20Speedo/湾岸6R%20-%20Digit%20Speedo.djson.00.png)
+![Image of Simple Input Keyboard](/WMMT%20Boost%20Gauge/WMMT%20Boost%20Gauge.djson.00.png)
+
+### ACC NSX GT3 Dash  
+
+Last Update: `July 26, 2025`  
+A complicated dash inspired by NSX GT3 Tacho.
+
+![Image of the dash](/NSX%20GT3%20-Overlay/NSX%20GT3%20-Overlay.djson.00.png)
 
 ## ACC Specified / 《神力科莎：争锋》特制
 
@@ -83,6 +113,7 @@ Showing pedal inputs as well as a trend graph.
 ## Suspension Dynamics
 
 Showing status of the suspension system on live.
+
 ![Image of the Tag](/Suspension%20Dynamics/Suspension%20Dynamics.djson.png)
 
 ## Tyre Monitor
@@ -94,26 +125,11 @@ a simple tag measuring tyres in action, include:
 * tyre temperature (IMO still working)
 * tyre Pressure
 * (More to work on with grip vector)
+
 ![Image of the Tag](/Tyre%20Monitors/Tyre%20Monitors.djson.png)
 
 ### Other Contents
 
 This folder may also contain additional overlay templates, resources, and configuration files not listed above. These can include custom images, scripts, or documentation to support and enhance your SimHub dashboard experience.
 
-## CN Intro / 介绍
 
-erm 我还不知道这个应该怎么写比较好
-
-文件存放方式：
-将下载的文件夹放入SimHub主目录下的 `\DashTemplates` 中， 重新启动SimHub就可以看到新加装的仪表小组件了！
-
-## EN Introduction
-
-erm really idk how to write a proper welcoming introduction..
-
-### Where to put?
-
-Download the ***folders*** you wish and place it inside `\DashTemplates` under the main program folder.  
-Go to anywhere and back to the tab of small layouts and you will see the newly-added dash!
-
-if still not appearing on the list of layouts please restart the SimHub.
