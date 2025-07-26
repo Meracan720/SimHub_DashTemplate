@@ -1,4 +1,5 @@
 # SimHub OverlayTemplates
+(Warning! Some text can only be seen for your browser's dark mode!)
 
 Lists of Layouts available:  
 
