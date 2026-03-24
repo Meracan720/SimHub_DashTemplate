@@ -3,16 +3,14 @@
   "InGameScreensIndexs": [
     0
   ],
-  "IdleScreensIndexs": [
-    0
-  ],
+  "IdleScreensIndexs": [],
   "MainPreviewIndex": 0,
   "IsOverlay": true,
   "OverlaySizeWarning": false,
   "MetadataVersion": 2.0,
   "EnableOnDashboardMessaging": true,
   "PitScreensIndexs": [],
-  "SimHubVersion": "9.8.2",
+  "SimHubVersion": "9.11.3",
   "Category": null,
   "Title": "NSX GT3 - Overlay",
   "Description": null,
