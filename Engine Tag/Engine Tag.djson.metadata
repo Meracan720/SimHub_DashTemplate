@@ -12,12 +12,12 @@
   "MetadataVersion": 2.0,
   "EnableOnDashboardMessaging": true,
   "PitScreensIndexs": [],
-  "SimHubVersion": "9.8.2",
+  "SimHubVersion": "9.11.3",
   "Category": null,
   "Title": "Engine Tag",
   "Description": null,
   "Author": null,
-  "Width": 300.0,
+  "Width": 240.0,
   "Height": 100.0,
   "DashboardVersion": ""
 }
