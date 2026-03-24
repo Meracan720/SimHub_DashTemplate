@@ -1,11 +1,11 @@
-# SimHub OverlayTemplates
+# SimHub Overlay Templates
 
 (Warning! Some text can only be seen for your browser's dark mode!)  
-Last Update: July 31, 2025
+Last Update: March 24, 2026
 
 ## Contents
 
-- [SimHub OverlayTemplates](#simhub-overlaytemplates)
+- [SimHub Overlay Templates](#simhub-overlay-templates)
   - [Contents](#contents)
   - [Introduction](#introduction)
     - [CN Intro / 介绍](#cn-intro--介绍)
@@ -13,7 +13,8 @@ Last Update: July 31, 2025
   - [ACC Specified / 《神力科莎：争锋》特制](#acc-specified--神力科莎争锋特制)
     - [ABS Tag](#abs-tag)
     - [TC Tag](#tc-tag)
-    - [Engine Tag  (Still Working on details)](#engine-tag--still-working-on-details)
+    - [Power Flux](#power-flux)
+    - [Engine Tag](#engine-tag)
     - [Time Delta](#time-delta)
     - [ACC NSX GT3 Dash](#acc-nsx-gt3-dash)
     - [ASCENT - RPM](#ascent---rpm)
@@ -56,11 +57,36 @@ Featured Overlay Tags Available:
 - Throttle input
 - Tachonometer such as throttle/brake, gear indicator, RPM, speed digits.
 
+### ACC NSX GT3 Dash  
+
+Last Update: `March 24, 2026`  
+A complicated dash inspired by NSX GT3 Tacho.
+
+![Image of the dash](/NSX%20GT3%20-Overlay/NSX%20GT3%20-Overlay.djson.00.png)
+
+New Updates:
+
+- Optimized UI Layout
+- ECU panels on the left can now be scrolled as a widget, cycling from (ECU/Tyre Slip angle/Car Health)
+
+### Power Flux
+
+A new Dash inspired from power usage of EVs.
+Last Update: `March 24, 2026`  
+
+![Image of the dash](/Power%20Flux/Power%20Flux.djson.00.png)
+
+Features:
+
+- Outer Ring reflects the Kinectic Energy of the car
+- Inner Ring tells the shifting timing
+- shadows around Speed to tell ABS/TC activations
+
 ### ABS Tag
 
 A simple ABS tag showing the ABS level and brake bias, with every change to bias it would be highlighted. When ABS is triggered all digits will flash.
 
-![Image of ABS Tag](/ABS%20Tag/ABS%20Tag.djson.00.png)
+![Image of ABS Tag](/ABS%20Tag/ABS%20Tag.djson.png)
 
 ### TC Tag
 
@@ -68,22 +94,23 @@ A simple TC tag showing the TC level and TC Cut. When TC is triggered all digits
 
 ![Image of TC Tag](/TCS%20Tag/TCS%20Tag.djson.00.png)
 
-### Engine Tag  (Still Working on details)
+### Engine Tag
+
+Last Update: `March 24, 2026`  
 
 The engine tag shows current engine map, car model and their meanings about each map. Some cars might not have specified documentation for each map!
+
+![Image of Engine Tag](/Engine%20Tag/Engine%20Tag.djson.00.png)
 
 Now available cars:
 
 - Honda NSX GT3 EVO
-- Mclaren 650s GT3
 - Mclaren 720s GT3 Evo
 - Audi R8 GT3 Evo 2
 - Lambo Huracan Evo 2
+- Porsche (Gen 992) 911 GT3-R
 
-Available language:  简体中文 / Simplified Chinese, English  
-To switch language you still need to dive into studio and change the reference source for this widget.
-
-![Image of Engine Tag](/Engine%20Tag/Engine%20Tag.djson.png)
+Available language:  简体中文 / Simplified Chinese  
 
 ### Time Delta
 
@@ -92,13 +119,6 @@ Showing the current position, current lap, last laptime, and delta to all time b
 - PB (personal best) here repr for the fastest valid laptime you achieved with this car recorded by SimHub. Say like you made your fastest laptime using *car 1* is 1:49.205 and *car 2* is 1:47.895, if you are driving *car 2* the time delta will use 1:47.895 as referrence.  
 
 ![Image of Simple Time Delta Tag](/Time%20Delta/Time%20Delta.djson.00.png)
-
-### ACC NSX GT3 Dash  
-
-Last Update: `July 26, 2025`  
-A complicated dash inspired by NSX GT3 Tacho.
-
-![Image of the dash](/NSX%20GT3%20-Overlay/NSX%20GT3%20-Overlay.djson.00.png)
 
 ### ASCENT - RPM
 
